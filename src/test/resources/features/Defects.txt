@@ -1,0 +1,47 @@
+Defect List
+
+1)
+Name :POST method to create new post is working without request
+Description: POST method to create new post is working without request.The Request should could contain UserId,title and body
+
+Expected: POST method should should not work without request
+Actual: POST method is working without request
+
+2)
+Name :PUT method to update existing post is working without request
+Description: PUT method to update existing post is working without request.The Request should could contain UserId,title and body
+
+Expected: PUT method should should not work without request
+Actual: PUT method is working without request
+
+3)
+Name :PATCH method to update existing post is working without request
+Description: PATCH method to update existing post is working without request.The Request should could contain UserId,title and body
+
+Expected: PATCH method should should not work without request
+Actual: PATCH method is working without request
+
+4)
+Name :POST method to create new post is accepting anything in the request body
+Description: POST method to create new post is is accepting anything in the request body.
+
+Expected: POST method should should accept only valid fields in the request body
+Actual: POST method is accepting anything in the request body
+
+5)
+Name :PUT method to update existing post is accepting anything in the request body
+Description: PUT method to update existing post is is accepting anything in the request body.
+
+Expected: PUT method should should accept only valid fields in the request body
+Actual: PUT method is accepting anything in the request body
+
+6)
+Name :PATCH method to update existing post is accepting anything in the request body
+Description: PATCH method to update existing post is is accepting anything in the request body.
+
+Expected: PATCH method should should accept only valid fields in the request body
+Actual: PATCH method is accepting anything in the request body
+
+
+
+
