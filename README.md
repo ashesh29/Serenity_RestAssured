@@ -11,5 +11,5 @@ Run the command 'mvn clean verify' from the project directory
 #Reports:
 To see the reports navigate to target/site/reports/index.html
 
-
-
+#Parallel Execution
+This framework supports parallel execution (plugin is added in the pom file).
